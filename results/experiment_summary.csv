@@ -1,0 +1,7 @@
+experiment,mode,n_workers,mean_throughput,mean_step_ms,p95_step_ms,final_accuracy,n_switches
+Exp1_Baseline,PS,-,3681.9,69.95,74.32,0.9370,0
+Exp1_Baseline,RA,-,997.2,261.64,361.71,0.9437,0
+Exp1_Baseline,AHA,-,3848.4,75.49,151.82,0.9431,0
+Exp3_FaultInjection,PS,-,3679.7,65.36,96.93,0.9362,0
+Exp3_FaultInjection,RA,-,995.3,249.07,330.47,0.9390,0
+Exp3_FaultInjection,AHA,-,3401.5,78.46,115.89,0.9455,0
